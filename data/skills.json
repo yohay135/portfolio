@@ -1,0 +1,48 @@
+[
+  {
+    "id": "programming",
+    "category": "Programming",
+    "icon": "💻",
+    "color": "indigo",
+    "skills": [
+      { "name": "Python" },
+      { "name": "SQL" },
+      { "name": "JavaScript" },
+      { "name": "TypeScript" },
+      { "name": "R" },
+      { "name": "HTML / CSS" }
+    ]
+  },
+  {
+    "id": "tools",
+    "category": "Tools & Platforms",
+    "icon": "🛠️",
+    "color": "violet",
+    "skills": [
+      { "name": "Power BI" },
+      { "name": "Tableau" },
+      { "name": "Git & GitHub" },
+      { "name": "Excel (Advanced)" },
+      { "name": "Jupyter Notebook" },
+      { "name": "Flask" },
+      { "name": "Next.js" },
+      { "name": "VS Code" }
+    ]
+  },
+  {
+    "id": "analytics",
+    "category": "Analytics & Methods",
+    "icon": "📊",
+    "color": "sky",
+    "skills": [
+      { "name": "Data Analysis" },
+      { "name": "BI Reporting" },
+      { "name": "Statistical Modeling" },
+      { "name": "Process Optimization" },
+      { "name": "Machine Learning" },
+      { "name": "Linear Programming" },
+      { "name": "A/B Testing" },
+      { "name": "ETL Pipelines" }
+    ]
+  }
+]
